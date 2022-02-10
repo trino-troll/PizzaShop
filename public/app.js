@@ -7,7 +7,7 @@ function something()
 	alert(x);
 }
 
-function add_to_card()
+function add_to_card(id)
 {
-	alert("Hello from function!");
+	alert("You added pizza with id " + id);
 }
